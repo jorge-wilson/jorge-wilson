@@ -18,7 +18,7 @@ My Tebex Store: https://jwilsondev.tebex.io/
   
  ##
   
- ![snake gif](https://github.com/jorge-wilson/jorge-wilson/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/jorge-wilson/jorge-wilson/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
